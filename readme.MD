@@ -1,4 +1,4 @@
-# antiChud
+# antiChud - coming soon.
 
 A Firefox and Chrome extension designed to keep me focused on locking in before chudmaxxing. The goal is simple: log at least three or more hours of verified study or assignment time each day before I can unlock the rest of the internet.
 
